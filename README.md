@@ -1,2 +1,2 @@
-# Code1--Harjoitusteht-v-t
+# Code1--Harjoitustehtävät
 Code 1 Opintojakson harjoitustehtävien ratkaisut
